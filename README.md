@@ -66,7 +66,10 @@ Feel free to connect via sathish3229937@gmail.com.
 <h3 align="center">“Code. Create. Contribute. Repeat.” 💻</h3>
 
 ---
-
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sathish1708127&label=Profile+Views&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
+</p>
 <!-- Footer Typing Animation -->
 <div align="center">
 
